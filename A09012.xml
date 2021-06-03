@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Parlyament of byrdes]</title>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09012</idno><idno type="EEBO-CITATION">23913622</idno>
+  <idno type="VID">26977</idno>
+  <idno type="EEBO-PROQUEST">2240910840</idno>
+  <idno type="STC">STC 19303.7</idno>
+  <idno type="STC">ESTC S4812</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A09012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26977)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1838:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Parlyament of byrdes]</title>
+               </titleStmt>
+               <extent>[8+] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. de Worde,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1520]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>T.p. lacking; catch title.</note>
+                  <note>Publisher and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: fragment.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Birds --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <head>Parlyament of byrdes.</head>
+            <pb facs="tcp:26977:1"/>
+            <div type="part">
+               <pb facs="tcp:26977:2"/>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+               <pb n="X.ii." facs="tcp:26977:2"/>
+               <l>No man maye now speke of trouthe</l>
+               <l>But his heed be broke and that is routhe</l>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke swore by his heed of graye</l>
+                  <l>All sothes be not for to saye</l>
+                  <l>It is better some be lefte by reason</l>
+                  <l>Than trouthe to be spoken out of season</l>
+               </sp>
+               <sp>
+                  <speaker>The po<g ref="char:EOLhyphen"/>pynge.</speaker>
+                  <l>¶Than spake the popynge Iay of paradyse</l>
+                  <l>Who saythe lytell he is wyse</l>
+                  <l>For lytell money is sone spende</l>
+                  <l>And fewe wordes are sone amende</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke bade for drede of payne</l>
+                  <l>Speke not moche of thy souerayne</l>
+                  <l>For who that wyll forge tales newe</l>
+                  <l>Whan he weneth leest his tale may rewe</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> comȳse</speaker>
+                  <l>¶Than desyred they grete and small</l>
+                  <l>To <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e the hawke for good and all</l>
+                  <l>A place a one we wolde he had</l>
+                  <l>For his coūseyll to vs was neuer glad</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke answered ye fayle all wyt</l>
+                  <l>It is not tyme to mewe hawkes yet</l>
+                  <l>Comyns of hawkes can but lytell skyll</l>
+                  <l>They shall not reule them as they wyll</l>
+               </sp>
+               <sp>
+                  <speaker>the nygh<g ref="char:EOLhyphen"/>tynge.</speaker>
+                  <l>¶Anone than sange the nyghtyngale</l>
+                  <l>With notes many grete and smale</l>
+                  <l>The byrde that can well speke and synge</l>
+                  <l>Shall be cherysshed with quene and kynge</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke answered with grete fury</l>
+                  <l>The songe is nought that is not mery</l>
+                  <l>And who so no bitter songe can</l>
+                  <l>Maketh lytell chere to ony man</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> donne.</speaker>
+                  <l>¶Than rombled the donne for her lot</l>
+                  <l>Folke may be mery and synge not</l>
+                  <pb facs="tcp:26977:3"/>
+                  <l>And how so hath no good voyce</l>
+                  <l>Must make mery with lytell noyse</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</speaker>
+                  <l>¶Whan this reason was forth shewed</l>
+                  <l>Lerne quod the hawke or or be lewed</l>
+                  <l>For the byrde that can not speke ne synge</l>
+                  <l>Shall to the kechyn to serue the kynge</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he fesaūt</speaker>
+                  <l>¶Thou crowed the fesaunt in the wode</l>
+                  <l>Domme men he saythe geteth lytell good</l>
+                  <l>Wode ne water ne other food</l>
+                  <l>It fleteth fro hym as dothe the flode</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd whan all is sought</l>
+                  <l>Grete crowers were neuer nought</l>
+                  <l>For I swere the by my foly</l>
+                  <l>He is not moost wyse that is moost Ioly</l>
+               </sp>
+               <sp>
+                  <speaker>The mo<g ref="char:EOLhyphen"/>recocke.</speaker>
+                  <l>¶Than crowed agayne the morecocke</l>
+                  <l>The hawke bryngeth moche thynge ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nocke</l>
+                  <l>The ofyll wysteleth and byrdes blake</l>
+                  <l>He must haue a do that a do dothe make</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶I must sayd the hawke by all my belles</l>
+                  <l>Saye for my selfe whan none wyll elles</l>
+                  <l>He is not gretely to repreue</l>
+                  <l>That speketh with his souerayns leue</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> botore.</speaker>
+                  <l>¶Than blussed the bottore in the fenne</l>
+                  <l>The cote / the dobchyk / and the water henne</l>
+                  <l>The hawke that dothe vs all this dere</l>
+                  <l>We wolde he were sowsed in the myre</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd wysshers wanton wyll</l>
+                  <l>Whether they speke loude or styll</l>
+                  <l>Whan all this done was sayd and laste</l>
+                  <l>Euery man must lyue by his crafte</l>
+               </sp>
+               <sp>
+                  <speaker>The ma<g ref="char:EOLhyphen"/>larde.</speaker>
+                  <l>¶Than creked the malarde and the gose</l>
+                  <l>They may best fle that are lose</l>
+                  <pb n="X.iii." facs="tcp:26977:3"/>
+                  <l>He is well that is at large</l>
+                  <l>That nedeth not the kynges grete charge</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd thoughe they fle lose</l>
+                  <l>They muste obey they may not chose</l>
+                  <l>Who hathe a mayster or a make</l>
+                  <l>He is tyed faste by the stake</l>
+               </sp>
+               <sp>
+                  <speaker>the heron</speaker>
+                  <l>¶Than creked the heron and the crane</l>
+                  <l>Grete trouble make wyttes lame</l>
+                  <l>He is well auysed that can bere hym lowe</l>
+                  <l>And suffre euery wynde to ouerblowe</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd who can blowe to plese</l>
+                  <l>Longe neckes done grete ese</l>
+                  <l>For the comyns that haue no rest</l>
+                  <l>Meneth not euer with the heste</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The pertryche / quayle / and larke▪</head>
+               <sp>
+                  <speaker>The per<g ref="char:EOLhyphen"/>tryche.</speaker>
+                  <l>¶The pertryche / quayle / and larke in felde</l>
+                  <l>Sayd here may not auayle but spere and shelde</l>
+                  <l>The hawke with vs maketh grete batayle</l>
+                  <l>In euery countre where he maye auayle</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd who so wylfully wyll fyght</l>
+                  <l>May make hym wronge sone of his ryght</l>
+                  <l>Lawe is best I vnderstonde</l>
+                  <l>To ryght all thynge in euery lounde</l>
+               </sp>
+               <sp>
+                  <speaker>the robyn And the wrenne.</speaker>
+                  <l>¶Than chyde the robyn and the wrenne</l>
+                  <l>And all small byrdes that bereth pen</l>
+                  <l>Ayenst the hawke the comunes must aryse</l>
+                  <l>And helpe themselfe on theyr best wyse</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke made the wrenne his answere</l>
+                  <l>Small power maye lytell dere</l>
+                  <l>And who wyll lyue in rest longe</l>
+                  <l>Maye not be besy with his tonge</l>
+               </sp>
+               <sp>
+                  <speaker>the comȳ.</speaker>
+                  <l>¶Than prayed all the comyn house</l>
+                  <pb facs="tcp:26977:4"/>
+                  <l>That some myght the hawke sons</l>
+                  <l>For foule ne byrde by water ne londe</l>
+                  <l>He was destroyed and he may stonde</l>
+                  <l>In his nest may none abyde</l>
+                  <l>In countre where he dothe glyde</l>
+                  <l>Theyr fethers plucked many a folde</l>
+                  <l>And leueth them naked in full grete colde</l>
+                  <l>Vnthynketh therfore the reason good</l>
+                  <l>To destroye the hawke and all his blode</l>
+               </sp>
+               <sp>
+                  <speaker>the kynge &amp; his lor<g ref="char:EOLhyphen"/>des.</speaker>
+                  <l>¶The kynge and his lordes answered anone</l>
+                  <l>States may not the hawke forgone</l>
+                  <l>Nor by no lawe his kynde destroye</l>
+                  <l>Nor deme hymselfe for to dye</l>
+                  <l>Nor put hym to none other dystresse</l>
+                  <l>But kepeth hym in a payre of gesse</l>
+                  <l>That he fle not to no byrde aboute</l>
+                  <l>But his keper let hym out</l>
+               </sp>
+               <sp>
+                  <speaker>The cor<g ref="char:EOLhyphen"/>nysshe da<g ref="char:EOLunhyphen"/>we.</speaker>
+                  <l>¶Than sayd the cornysshe dawe</l>
+                  <l>Lytell money lytell lawe</l>
+                  <l>For here is nought elles with frende ne so</l>
+                  <l>But go bet peny go bet go</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶Thou cornysshe quod the hawke by thy wyll</l>
+                  <l>Say well or holde the sty<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</l>
+                  <l>For thou haste herde of many a man</l>
+                  <l>A songe breketh bone and it selfe hath none</l>
+               </sp>
+               <sp>
+                  <speaker>the kinge</speaker>
+                  <l>¶Than answered y<seg rend="sup">e</seg> kynge of y<seg rend="sup">e</seg> byrdes by rewe</l>
+                  <l>Why cometh not to the parlyament the crowe</l>
+                  <l>For good counseyll reformeth euery raysse</l>
+                  <l>And it betokeneth where it is</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶The hawek sayd it is no lesse</l>
+                  <l>Counseyll is good in warre and pese</l>
+                  <l>But the crowe hath no brayne</l>
+                  <pb facs="tcp:26977:4"/>
+                  <l>For to gyue counseyll but of the rayne</l>
+               </sp>
+               <sp>
+                  <speaker>the nyght whale.</speaker>
+                  <l>¶Then sayd the nyght whale with his heed gay</l>
+                  <l>He shameth vs with his parlyament araye</l>
+                  <l>It is a terme with Iohan and Iacke</l>
+                  <l>Broken sleue draweth arme a backe</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶The hawke sayd he shall thryue full late</l>
+                  <l>That loketh to kepe a grete estate</l>
+                  <l>And can not with all his wysdome</l>
+                  <l>Gete hymselfe an hole gowne</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>¶The pecoke and the swanne.</head>
+               <sp>
+                  <l>¶Than sayd the pecoke and the swanne</l>
+                  <l>Who no good hath no good canne</l>
+                  <l>And lytell is his wytte sette by</l>
+                  <l>That hathe not to bere out company</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶The hawke sayd he is worse than wode</l>
+                  <l>That maketh hym fre<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>she w<seg rend="sup">t</seg> other mennes good</l>
+                  <l>Or ought wyll borowe and neuer paye</l>
+                  <l>Or with wronge geteth galaunt araye</l>
+               </sp>
+               <sp>
+                  <speaker>the specke</speaker>
+                  <l>¶Than in his hole sayd the specke</l>
+                  <l>I wolde the hawke brake his necke</l>
+                  <l>Or brought into myscheuous dale</l>
+                  <l>For of euery byrde he telleth a tale</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶The hawke sayd thoughe thy castell be in y<seg rend="sup">e</seg> tre</l>
+                  <l>Buylde not aboue thy degre</l>
+                  <l>For who so heweth ouer hye</l>
+                  <l>The chyppes wyll fall in his eye</l>
+               </sp>
+               <sp>
+                  <speaker>the kynge</speaker>
+                  <l>¶Than sayd the kynge it is our entente</l>
+                  <l>To mende the crowes rayment</l>
+                  <l>And all the byrdes sayd anone</l>
+                  <l>Of eche of our feders he shall haue one</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke.</speaker>
+                  <l>¶The hawke sayd he may sone come to honeste</l>
+                  <l>That euery man helpeth in his poste</l>
+                  <pb facs="tcp:26977:5"/>
+                  <l>For as techeth vs the lerned clerke</l>
+                  <l>Many handes maketh lyght werke</l>
+               </sp>
+               <sp>
+                  <speaker>the tydyf<g ref="char:EOLunhyphen"/>fre.</speaker>
+                  <l>¶I saye quod the tydyffre we kentysshe men</l>
+                  <l>We maye not gyue the crowe a pen</l>
+                  <l>For with them that are not sobre and good</l>
+                  <l>A byrde in hande is worthe two in the wood</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd I take me to my crede</l>
+                  <l>Who so wyll spende with you he maye spede</l>
+                  <l>Lytell ye gyue but ye wote why</l>
+                  <l>Ye make the blynde ete many a flye</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> crowe</speaker>
+                  <l>¶Than y<seg rend="sup">e</seg> crowe was put in his araye</l>
+                  <l>I am not now as I was yesterdaye</l>
+                  <l>I am able without offence</l>
+                  <l>To speke in the kynges presence</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke sayd to the comyns bydene</l>
+                  <l>Enuye and pryde wolde fayne be sene</l>
+                  <l>He is worthy none audyence to haue</l>
+                  <l>That can not say but knaue knaue</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> comȳse</speaker>
+                  <l>¶Than asked the byrdes by aduysement</l>
+                  <l>Who is that taketh to vs no tente</l>
+                  <l>He presumeth before vs all to fle</l>
+                  <l>To the kynges hygh maieste</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶The hawke answered to the whyte semewe</l>
+                  <l>He is the sory blacke crowe</l>
+                  <l>And for hym fareth no man the better</l>
+                  <l>Lette hym crowe therfore neuer the gretter</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> lordes</speaker>
+                  <l>¶Than sayd the lordes euery chone</l>
+                  <l>We wyll aske of the kynge anone</l>
+                  <l>That euery byrde shall resume</l>
+                  <l>Agayne his fether and his plume</l>
+                  <l>And make the crowe agayne a knaue</l>
+                  <l>For he that nought hathe nought shall haue</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <pb facs="tcp:26977:5"/>
+                  <l>¶Than sayd the hawke as some men sayne</l>
+                  <l>Borowed ware wyll home agayne</l>
+                  <l>And who wyll herken what all men doos</l>
+                  <l>May go helpe to sho the goos</l>
+               </sp>
+               <sp>
+                  <speaker>The cor<g ref="char:EOLhyphen"/>moraunt.</speaker>
+                  <l>¶For to crowe spake the cormoraunt</l>
+                  <l>And of his rule made grete auaunt</l>
+                  <l>Suche worshyp is reason that euery man haue</l>
+                  <l>As the kynges hyghnes vouchesaue</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶Hit is lothe quud y<seg rend="sup">e</seg> hawke that thou doost say</l>
+                  <l>Whan all turneth to sporte and playe</l>
+                  <l>Thou mayst leest speke for the crowes pelfe</l>
+                  <l>For all thynge loueth that is lyke hymselfe</l>
+               </sp>
+               <sp>
+                  <speaker>The hole {per}lyamēt.</speaker>
+                  <l>¶Then prayed the hole parlyamente</l>
+                  <l>To the kynge with one assent</l>
+                  <l>That euery byrde her feder myght</l>
+                  <l>Take frome that proude knyght</l>
+               </sp>
+               <sp>
+                  <speaker>the kynge</speaker>
+                  <l>¶The kynge sayd ye shall leue haue</l>
+                  <l>A knyght sholde neuer come of a knaue</l>
+                  <l>All thynge wyll shewe frome whense it come</l>
+                  <l>Where is his place and his home</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶Now trwely sayd the hawke then</l>
+                  <l>It is grete comforte to all men</l>
+                  <l>Of the kynges grete prosperyte</l>
+                  <l>Whan the kynge ruleth well his comynalte</l>
+               </sp>
+               <lg>
+                  <l>¶Than was plucked fro the crowe anone</l>
+                  <l>All his feders by one and by one</l>
+                  <l>And lefte in blacke in stede of reed</l>
+                  <l>And called hym a page of the fyrs<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed</l>
+               </lg>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>¶Quod y<seg rend="sup">e</seg> hawke y<seg rend="sup">e</seg> crowe is now as he shold be</l>
+                  <l>A kynde knaue in his degre</l>
+                  <l>And he that weneth that no byrde is hym lyke</l>
+                  <l>Whan his feders are plucked he may hȳ go pyke</l>
+               </sp>
+               <pb facs="tcp:26977:6"/>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> comȳse.</speaker>
+                  <l>¶Than made the comyns grete noyse</l>
+                  <l>And asked of the lordes with one voyce</l>
+                  <l>That they wolde the hawke exyle</l>
+                  <l>Oute of this londe man<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>yle</l>
+                  <l>Neuer to come agayne hyther</l>
+                  <l>But the kynge sende for <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thyder</l>
+                  <l>Hym to trust we haue no <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heson</l>
+                  <l>For it is preued in truste is treason</l>
+                  <l>And sythe ye saye he shall not not dye</l>
+                  <l>Plucke of this hokes and let hym flye</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> lordes</speaker>
+                  <l>¶To that sayd the lordes we pretende</l>
+                  <l>This statute and other to amende</l>
+                  <l>So in this that ye accorde</l>
+                  <l>To put all in our souerayne lorde</l>
+               </sp>
+               <sp>
+                  <speaker>y<seg rend="sup">e</seg> comȳse.</speaker>
+                  <l>¶The comyns sayd it is grete skyll</l>
+                  <l>All thyne to be at the kyngs wyll</l>
+                  <l>And vnder the hande of hys grete myght</l>
+                  <l>By grace his people to seke his ryght</l>
+               </sp>
+               <sp>
+                  <speaker>The haw<g ref="char:EOLunhyphen"/>ke</speaker>
+                  <l>Than sayd the hawke now to now fro</l>
+                  <l>Thus goeth the worlde in well and wo</l>
+               </sp>
+               <sp>
+                  <speaker>the kynge</speaker>
+                  <l>¶Than sayd the kynge in his maieste</l>
+                  <l>We wyll dyssyuer this grete semble</l>
+                  <l>He commaunded his chauncelere</l>
+                  <l>The best statutes to rede that he myght here</l>
+                  <l>Thus the fynall Iugement</l>
+                  <l>He redde of the byrdes parlyament</l>
+                  <l>wheder they be whyte or blake</l>
+                  <l>None shall others feders take</l>
+                  <l>Nor the rauyn plucke the pecockes tayle</l>
+                  <l>To make hym fresshe for his auayle</l>
+                  <l>For the comyns feders wante</l>
+                  <l>For with some they be ryght skante</l>
+               </sp>
+            </div>
+            <pb facs="tcp:26977:6"/>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
